@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novak Djokovic</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="bg-primary text-white text-center py-3">
+        <h1>Novak Djokovic</h1>
+        <p>El Rey del Tenis</p>
+    </header>
+    <div class="container mt-4">
+        <div class="row">
+            <div class="col-md-4 text-center">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Novak_Djokovic_Queens_2018.jpg/400px-Novak_Djokovic_Queens_2018.jpg" class="img-fluid rounded" alt="Novak Djokovic">
+            </div>
+            <div class="col-md-8">
+                <h2>Historia</h2>
+                <p>Novak Djokovic, nacido el 22 de mayo de 1987 en Serbia, es considerado uno de los mejores tenistas de todos los tiempos. Ha dominado el circuito ATP con su juego versátil y mentalidad indomable.</p>
+                <p>Con múltiples títulos de Grand Slam y récords impresionantes, Djokovic ha dejado una marca imborrable en la historia del tenis.</p>
+                <a href="https://es.wikipedia.org/wiki/Novak_Djokovic" class="btn btn-primary">Más información</a>
+            </div>
+        </div>
+        <div class="mt-4">
+            <h2>Títulos Principales</h2>
+            <table class="table table-bordered">
+                <tr>
+                    <td>Grand Slams</td>
+                    <td>24</td>
+                </tr>
+                <tr>
+                    <td>Masters 1000</td>
+                    <td>40+</td>
+                </tr>
+                <tr>
+                    <td>ATP Finals</td>
+                    <td>6</td>
+                </tr>
+                <tr>
+                    <td>Medallas Olímpicas</td>
+                    <td>1 (Bronce en 2008)</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
